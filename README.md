@@ -1,4 +1,4 @@
-👋 Hi there, I'm 조예은! <img src ="https://github.com/images/mona-whisper.gif" width="62" height="62"/>
+👋 Hi there, I'm 조예은!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0040FF&width=435&lines=Hi%2C+I'm+조예은!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
