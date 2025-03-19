@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0040FF&width=435&lines=Hi%2C+I'm+조예은!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ABF200&width=435&lines=Hi%2C+I'm+조예은!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 <p>👋 Welcome to my page!</p>
