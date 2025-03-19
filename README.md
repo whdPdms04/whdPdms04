@@ -1,8 +1,10 @@
-👋 <p>Welcome to my page!
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0040FF&width=435&lines=Hi%2C+I'm+조예은!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
-I'm 조예은, Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
+<p>👋 Welcome to my page!</p>
+---
+<p>I'm 조예은, Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
 
 ---
 
