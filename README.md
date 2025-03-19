@@ -10,7 +10,12 @@
 
 ## 🔧 Tools & Technologies
 ![VS Code](https://img.shields.io/badge/VSCode-Preferred-lightblue?style=for-the-badge&logo=visual-studio-code)
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C5D?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Intermediate-orange?style=for-the-badge&logo=jupyter)
 
 ---
